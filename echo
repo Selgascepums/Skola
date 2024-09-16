@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title>PHP Test</title>
+  </head>
+  <body>
+    <h1>Jūra</h1
+    <p>Jūras radības</p>     
+    <p>saskaitīt</p>
+    <?php 
+    $a = 5;
+    $b = 10;
+    $teksts = "kāpēc ir jārēķina ?";
+    $teksts1  = "kas?";
+    echo $a + $b, '<br>', $teksts, '<br>', $teksts1, '<br>';
+
+    if ($a > $b) {
+      echo "a ir lielāks par b";
+    } else if ($a == $b) {
+      echo "a ir vienāds ar b ";
+    } else {
+      echo " a ir mazāks par b";
+    }
+    ?>    
+
+</html>
