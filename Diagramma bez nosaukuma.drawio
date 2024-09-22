@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -10,11 +10,43 @@
             <mxPoint x="220" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ahagz1rytBNZaV60CYtw-1" value="Sākums" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ahagz1rytBNZaV60CYtw-1" value="Sākums" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ahagz1rytBNZaV60CYtw-2" value="&lt;font color=&quot;#007fff&quot;&gt;v_zilais &lt;/font&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;- 57km/h&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#00cc00&quot;&gt;v_zaļais &lt;/font&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;- 60km/h&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;v_sarkanais &lt;/font&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;- 60km/h&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(26, 26, 26); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(26, 26, 26); background-color: initial;&quot;&gt;s_Valka_Rīga - 168km&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;s_Rīga_Jelgava - 43km&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;t_zilais_zaļais - 10min&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ahagz1rytBNZaV60CYtw-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ahagz1rytBNZaV60CYtw-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ahagz1rytBNZaV60CYtw-2" value="&lt;font color=&quot;#007fff&quot;&gt;v_zilais &lt;/font&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;- 57km/h&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#00cc00&quot;&gt;v_zaļais &lt;/font&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;- 60km/h&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#cc0000&quot;&gt;v_sarkanais &lt;/font&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;- 60km/h&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(26, 26, 26); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(26, 26, 26); background-color: initial;&quot;&gt;s_Valka_Rīga - 168km&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;s_Rīga_Jelgava - 43km&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;t_zilais_zaļais - 10min&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="170" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IT3buVjhlxFBMhq0vRsQ-3" target="IT3buVjhlxFBMhq0vRsQ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-3" value="s = vt&amp;nbsp;&lt;div&gt;s_sarkanais = v_sarkanais * t_sarkanais&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="195" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IT3buVjhlxFBMhq0vRsQ-5" target="IT3buVjhlxFBMhq0vRsQ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-5" value="s_sarkanais = 60 * 4 = 240 km" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="300" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-7" value="Sarkanais vilciens ir braucis 240 km un ir pabraucis garām Rīgai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="405" y="420" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="350" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
