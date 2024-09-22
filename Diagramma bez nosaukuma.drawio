@@ -82,7 +82,7 @@
         <mxCell id="IT3buVjhlxFBMhq0vRsQ-20" value="s_satiksanai = v_zalais * t_starpibai&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;s_satiksanas = 60 * 0.286 = 17.16 km&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="801.25" width="190" height="88.75" as="geometry" />
         </mxCell>
-        <mxCell id="IT3buVjhlxFBMhq0vRsQ-22" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-22" value="Zalais un zilais vilciens satikas 17.16 km attaluma no Rigas" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="780" width="165" height="95.63" as="geometry" />
         </mxCell>
       </root>
