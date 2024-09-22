@@ -61,11 +61,29 @@
         <mxCell id="IT3buVjhlxFBMhq0vRsQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IT3buVjhlxFBMhq0vRsQ-14" target="IT3buVjhlxFBMhq0vRsQ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IT3buVjhlxFBMhq0vRsQ-14" value="s_starpiba_zilajam_vilcienam = s_Riga_Jelgava - s_zilais" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-14" value="s_starpiba_zilajam_vilcienam = s_Riga_Jelgava - s_zilais&lt;div&gt;43 km - 9.5 km = 33.5 km&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="550" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="IT3buVjhlxFBMhq0vRsQ-16" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="585" width="120" height="60" as="geometry" />
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IT3buVjhlxFBMhq0vRsQ-16" target="IT3buVjhlxFBMhq0vRsQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-16" value="v_abiem = v_zilais + v_zalais&lt;div&gt;v_abiem = 57 + 60 = 117 km/h&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="585" width="170" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IT3buVjhlxFBMhq0vRsQ-18" target="IT3buVjhlxFBMhq0vRsQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-18" value="t_starpibai = s_starpibai / v_abiem&lt;div&gt;t_starpibai = 33.5 / 117 = 0.286 h = 17.16 min&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="597.5" width="160" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IT3buVjhlxFBMhq0vRsQ-20" target="IT3buVjhlxFBMhq0vRsQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-20" value="s_satiksanai = v_zalais * t_starpibai&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;s_satiksanas = 60 * 0.286 = 17.16 km&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="801.25" width="190" height="88.75" as="geometry" />
+        </mxCell>
+        <mxCell id="IT3buVjhlxFBMhq0vRsQ-22" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="780" width="165" height="95.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
