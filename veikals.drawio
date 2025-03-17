@@ -67,11 +67,14 @@
         <mxCell id="rX_JPyauBeY-fPx6mtbD-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rX_JPyauBeY-fPx6mtbD-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="620" as="sourcePoint" />
-            <mxPoint x="360" y="660" as="targetPoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rX_JPyauBeY-fPx6mtbD-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rX_JPyauBeY-fPx6mtbD-18" target="rX_JPyauBeY-fPx6mtbD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rX_JPyauBeY-fPx6mtbD-18" value="Izvēlas grāmatu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rX_JPyauBeY-fPx6mtbD-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rX_JPyauBeY-fPx6mtbD-20" value="ISBN numura" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="770" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="770" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rX_JPyauBeY-fPx6mtbD-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rX_JPyauBeY-fPx6mtbD-23" target="rX_JPyauBeY-fPx6mtbD-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -89,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rX_JPyauBeY-fPx6mtbD-22" value="nosaukuma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="770" width="120" height="30" as="geometry" />
+          <mxGeometry x="240" y="770" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rX_JPyauBeY-fPx6mtbD-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rX_JPyauBeY-fPx6mtbD-20" target="rX_JPyauBeY-fPx6mtbD-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -98,25 +101,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rX_JPyauBeY-fPx6mtbD-23" value="Vai" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="770" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rX_JPyauBeY-fPx6mtbD-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rX_JPyauBeY-fPx6mtbD-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="720" as="sourcePoint" />
-            <mxPoint x="360" y="770" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="180" y="770" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rX_JPyauBeY-fPx6mtbD-28" value="Pēc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="730" width="40" height="30" as="geometry" />
+          <mxGeometry x="200" y="740" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rX_JPyauBeY-fPx6mtbD-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rX_JPyauBeY-fPx6mtbD-23">
+        <mxCell id="rX_JPyauBeY-fPx6mtbD-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rX_JPyauBeY-fPx6mtbD-23" target="rX_JPyauBeY-fPx6mtbD-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="810" as="sourcePoint" />
             <mxPoint x="360" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rX_JPyauBeY-fPx6mtbD-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rX_JPyauBeY-fPx6mtbD-30" target="rX_JPyauBeY-fPx6mtbD-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rX_JPyauBeY-fPx6mtbD-30" value="Ievada vēlamo grāmatu daudzumu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rX_JPyauBeY-fPx6mtbD-31" value="Pērk par grāmatu" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="950" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rX_JPyauBeY-fPx6mtbD-36" value="Pircējs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rX_JPyauBeY-fPx6mtbD-37" value="Uzņem pircēja izvēles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="630" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
