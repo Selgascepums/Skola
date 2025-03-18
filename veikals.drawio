@@ -163,8 +163,20 @@
         <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-8" value="Jā" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="848" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkLpaDX3lnJI5FGiQ4Gl-9" target="WkLpaDX3lnJI5FGiQ4Gl-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkLpaDX3lnJI5FGiQ4Gl-9" target="WkLpaDX3lnJI5FGiQ4Gl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-9" value="pērk grāmatu" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="970" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-11" value="samazinās grāmatu skaits datos" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="1040" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-13" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="962.5" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
