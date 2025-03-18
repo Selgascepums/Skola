@@ -79,7 +79,7 @@
           <mxGeometry x="340" y="690" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rX_JPyauBeY-fPx6mtbD-28" value="Pēc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="360" y="610" width="40" height="30" as="geometry" />
+          <mxGeometry x="360" y="624.06" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rX_JPyauBeY-fPx6mtbD-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rX_JPyauBeY-fPx6mtbD-23" target="rX_JPyauBeY-fPx6mtbD-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rX_JPyauBeY-fPx6mtbD-30" value="Ievada vēlamo grāmatu daudzumu" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="755.93" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rX_JPyauBeY-fPx6mtbD-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rX_JPyauBeY-fPx6mtbD-40" target="rX_JPyauBeY-fPx6mtbD-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -117,7 +117,7 @@
             <mxPoint x="440" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-0" value="Vai grāmata eksistē veikalā" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-0" value="Vai grāmata ir pieejama?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="654.0600000000001" width="180" height="101.87" as="geometry" />
         </mxCell>
         <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkLpaDX3lnJI5FGiQ4Gl-0" target="WkLpaDX3lnJI5FGiQ4Gl-2">
@@ -147,23 +147,26 @@
         <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-8" value="Jā" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="755.9300000000001" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkLpaDX3lnJI5FGiQ4Gl-9" target="WkLpaDX3lnJI5FGiQ4Gl-11">
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkLpaDX3lnJI5FGiQ4Gl-9" target="WkLpaDX3lnJI5FGiQ4Gl-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-9" value="samaksā par grāmatu" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="1120" width="120" height="30" as="geometry" />
+          <mxGeometry x="130" y="885" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-11" value="samazinās grāmatu skaits datos" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="1190" width="120" height="30" as="geometry" />
+          <mxGeometry x="130" y="950" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-13" value="Paziņojums: Nav pieejams šāds grāmatu skaits" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="850" width="120" height="45" as="geometry" />
+          <mxGeometry x="510" y="877.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkLpaDX3lnJI5FGiQ4Gl-15" target="WkLpaDX3lnJI5FGiQ4Gl-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkLpaDX3lnJI5FGiQ4Gl-15" target="WkLpaDX3lnJI5FGiQ4Gl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-15" value="Vai grāmatu skaits ir pieejams veikalā?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="295" y="880" width="130" height="120" as="geometry" />
+          <mxGeometry x="295" y="840" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rX_JPyauBeY-fPx6mtbD-0" target="rX_JPyauBeY-fPx6mtbD-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -181,7 +184,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-19" value="Nē" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="447.5" y="910" width="40" height="30" as="geometry" />
+          <mxGeometry x="440" y="870" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-21" value="Jā" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="255" y="870" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkLpaDX3lnJI5FGiQ4Gl-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1020" as="sourcePoint" />
+            <mxPoint x="190" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-26" value="Kur pircējs izvēlas iet?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="135" y="1020" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkLpaDX3lnJI5FGiQ4Gl-26" target="WkLpaDX3lnJI5FGiQ4Gl-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1020" as="sourcePoint" />
+            <mxPoint x="350" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-28" value="Grāmatu inventāra sarakstu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="1047.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-29" value="1.iespēja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="255" y="1030" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkLpaDX3lnJI5FGiQ4Gl-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1120" as="sourcePoint" />
+            <mxPoint x="340" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-31" value="2.iespēja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="1078" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkLpaDX3lnJI5FGiQ4Gl-32" value="Pirkuma lapa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="1090" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
