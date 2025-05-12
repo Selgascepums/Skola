@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="f3vUga5tc9oBi6mxtE6u-1" value="&lt;h2&gt;Ūdenskrituma modelis&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#639CFF;labelBackgroundColor=none;textShadow=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="70" y="40" width="290" height="40" as="geometry" />
+          <mxGeometry x="80" y="40" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f3vUga5tc9oBi6mxtE6u-2" value="Prasību specifikācija" style="rounded=1;whiteSpace=wrap;html=1;textShadow=0;labelBorderColor=none;fillColor=#BAD5FF;strokeColor=light-dark(#6DA7FF,#213C60);fontColor=light-dark(#6DA7FF,#213C60);" vertex="1" parent="1">
           <mxGeometry x="160" y="100" width="120" height="40" as="geometry" />
@@ -45,6 +45,45 @@
               <mxPoint x="280" y="220" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="f3vUga5tc9oBi6mxtE6u-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endWidth=8;endSize=5.33;fillColor=#EDF1FF;strokeColor=light-dark(#6DA7FF,#213C60);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="240" as="sourcePoint" />
+            <mxPoint x="400" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3vUga5tc9oBi6mxtE6u-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endWidth=8;endSize=5.33;fillColor=#EDF1FF;strokeColor=light-dark(#6DA7FF,#213C60);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="290" as="sourcePoint" />
+            <mxPoint x="480" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3vUga5tc9oBi6mxtE6u-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endWidth=8;endSize=5.33;fillColor=#EDF1FF;strokeColor=light-dark(#6DA7FF,#213C60);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="340" as="sourcePoint" />
+            <mxPoint x="560" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3vUga5tc9oBi6mxtE6u-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endWidth=8;endSize=5.33;fillColor=#EDF1FF;strokeColor=light-dark(#6DA7FF,#213C60);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="390" as="sourcePoint" />
+            <mxPoint x="640" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3vUga5tc9oBi6mxtE6u-23" value="&lt;h2&gt;Spirāles modelis&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0080;fontSize=17;strokeColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
