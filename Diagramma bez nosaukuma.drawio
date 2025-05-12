@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f3vUga5tc9oBi6mxtE6u-1" value="Ūdenskrituma modelis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#639CFF;" vertex="1" parent="1">
-          <mxGeometry x="70" y="40" width="180" height="40" as="geometry" />
+        <mxCell id="f3vUga5tc9oBi6mxtE6u-1" value="Ūdenskrituma modelis" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#639CFF;labelBackgroundColor=none;textShadow=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f3vUga5tc9oBi6mxtE6u-2" value="Prasību specifikācija" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#B5D5FF;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
